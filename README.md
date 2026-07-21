@@ -6,13 +6,11 @@
 
 ## 👩‍💻 Team Members
 
-| Name | Role |
-|------|------|
-| **Manvi Sinha** | Project Lead & Backend Integration |
-| **Kavya Jain** | LangGraph Agent Design |
-| **Lakshita Aggarwal** | Vector DB & Embeddings |
-| **Lavanya Sharma** | Streamlit UI & UX |
-| **Divya Yadav** | Prompt Engineering & Testing |
+- Manvi Sinha
+- Kavya Jain
+- Lakshita Aggarwal
+- Lavanya Sharma
+- Divya Yadav
 
 ---
 
